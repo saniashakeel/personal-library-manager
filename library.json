@@ -1,0 +1,34 @@
+[
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "publication": "1925",
+    "genre": "Classic Fiction",
+    "read_status": "False",
+    "added_date": "2025-03-16"
+  },
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "publication": "2008",
+    "genre": "Programming",
+    "read_status": "Reading",
+    "added_date": "2025-03-16"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "publication": "1960",
+    "genre": "Historical Fiction",
+    "read_status": "Reading",
+    "added_date": "2025-03-16"
+  },
+  {
+    "title": "Abbe Hayat",
+    "author": "Nimra Ahmed",
+    "publication": "2022",
+    "genre": "Spiritual Fiction",
+    "read_status": "Pending",
+    "added_date": "2025-03-16"
+  },
+]
